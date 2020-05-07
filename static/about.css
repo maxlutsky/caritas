@@ -5,6 +5,15 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
+footer {
+  position: absolute;
+  background-color: gray;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height:0;
+  margin: auto;
 
 li {
   float: left;
@@ -21,4 +30,9 @@ li a {
 li a:hover {
   background-color: #111;
   transition: 1s;    
+}
+}
+.footer {
+  background-color: #333;
+  color: white;
 }
