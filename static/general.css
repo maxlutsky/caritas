@@ -2,10 +2,15 @@ html{
     background-color: #333;
 }
 
+header{
+    padding-top: 0;
+    padding-bottom: 3%;
+    width: 100%;
+}
 ul {
     list-style-type: none;
     margin: -1%;
-    padding: -1%;
+    padding: 1%;
     overflow: hidden;
     background-color: #333;
     float: right;
