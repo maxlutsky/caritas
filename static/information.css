@@ -1,0 +1,36 @@
+main{
+  padding:1%;
+}
+.container{
+  padding-bottom: 30%;
+  height: auto;
+}
+.first-block-header{
+  text-align: center;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+
+.second-block-header{
+  text-align: center;
+}
+.second-block-content{
+  height: 400px;
+}
+.left-part{
+  float: left;
+  color: white;
+  max-height: 1000px;
+  height: 100%;
+  max-width: 1000px;
+  width: 45%;
+}
+.right-part{
+  float: right;
+  color: white;
+  max-height: 700px;
+  height: 100%;
+  max-width: 1000px;
+  width: 50%;
+}
