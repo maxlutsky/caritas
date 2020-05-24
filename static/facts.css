@@ -1,0 +1,30 @@
+main{
+  padding:1%;
+}
+.container{
+  padding-bottom: 2%;
+  height: 450px;
+  padding-top: 2%
+}
+.first-block-header{
+  text-align: center;
+}
+.second-block-content{
+  height: 100%;
+}
+.left-part{
+  float: left;
+  color: white;
+  max-height: 1000px;
+  height: 100%;
+  max-width: 1000px;
+  width: 65%;
+}
+.right-part{
+  float: right;
+  color: white;
+  max-height: 1000px;
+  height: 100%;
+  max-width: 1000px;
+  width: 40%;
+}
